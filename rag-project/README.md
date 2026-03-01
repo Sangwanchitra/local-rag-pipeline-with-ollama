@@ -1,4 +1,4 @@
-# Local RAG System with Open-Weight LLMs
+# BNS-LegalBot ⚖️
 
 This is a production-ready, highly constrained Retrieval-Augmented Generation (RAG) system built entirely on local/open-source components (except the LLM, which is open-weight running via Ollama).
 
