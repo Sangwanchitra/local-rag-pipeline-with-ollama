@@ -58,7 +58,7 @@ streamlit run app.py
 ## How to use the App
 
 1. Open the UI (usually `http://localhost:8501`).
-2. Upload exactly 2 PDF files in data folder. 
+2. Upload exactly 2 PDF files in document folder. 
 3. Wait for the embeddings to be generated and stored locally in `data/chroma_db`.
 4. Ask a question. The system will retrieve the top 5 relevant chunks and generate a grounded answer citing the source file and page numbers.
 
