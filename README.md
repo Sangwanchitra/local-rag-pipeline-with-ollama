@@ -1,6 +1,7 @@
 # BNS-LegalBot ⚖️
 
 This is a production-ready, highly constrained Retrieval-Augmented Generation (RAG) system built entirely on local/open-source components (except the LLM, which is open-weight running via Ollama).
+![image alt](https://github.com/Sangwanchitra/local-rag-pipeline-with-ollama/blob/668c98d0ae4be0caa7f11453fe4c31dcf8e664cb/IMG-20260301-WA0011.jpg)
 
 ## Architecture
 
