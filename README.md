@@ -75,6 +75,7 @@ A standalone script is provided to measure the effectiveness of the retrieval an
 ```bash
 python evaluation.py
 ```
+![image alt](https://github.com/Sangwanchitra/local-rag-pipeline-with-ollama/blob/251591753ff0f637193e207b934038dcafbb2093/IMG-20260301-WA0027.jpg)
 
 **Metrics measured:**
 
